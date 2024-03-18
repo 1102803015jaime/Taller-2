@@ -1,0 +1,25 @@
+table {
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color:black ;
+}
+.form-group  table{
+    margin-bottom: 15px;
+}
+.form-group table {
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+.form-group table {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form-group table:hover {
+    background-color: #0056b3;
+}
